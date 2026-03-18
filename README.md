@@ -1,6 +1,48 @@
 # 🏠 RWAtify Lead Gen Agent — Project Blueprint
 ### AI-Powered Intent-Based Real Estate Leads Infrastructure 
-Note : Need to Improve system more accuray and better performance current architecture is this.can be updated soon.
+
+> [!NOTE]
+> **Performance Note**: The system is designed for high-accuracy lead discovery. Current architecture is stable, with updates planned for even higher precision and speed.
+
+---
+
+## 🚀 Quick Start (How to Run on Your Laptop)
+
+### 1. Install Python
+If you don't have Python installed, download it from [python.org](https://www.python.org/downloads/) (version 3.10 or higher recommended).
+
+### 2. Install Visual Studio
+If you don't have Visual Studion IDE installed, download it from [visual studio](https://visualstudio.microsoft.com/downloads/) 
+
+### 3. Download the Project
+Download the ZIP file of this project.
+
+### 4. Setup the Project
+Open the visual studio and select the folder that downloaded and click the terminal after opening the project folder in the visual studio.
+Open your terminal (Command Prompt or PowerShell) in the project folder and run:
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Configure API Keys
+1. Find the file named `.env.example` in the folder.
+2. Rename it to `.env`.
+3. I will send the environment variables thorugh the mail.
+4. Open it with a text editor (like Notepad) and paste your API keys:
+   - `GROQ_API_KEY`: Get from [Groq Console](https://console.groq.com/)
+   - `SERPER_API_KEY`: Get from [Serper.dev](https://serper.dev/) (For Google Search)
+   - `CLAUDE_API_KEY`: Get from [Anthropic](https://console.anthropic.com/) (For AI Intelligence)
+
+### 4. Run the Agent
+To start finding leads immediately, run:
+```bash
+python main.py
+```
+
+### 📂 Where are my leads?
+Once the program finishes, you will find a professional, color-coded Excel file here:
+**`data/rwatify_leads.xlsx`**
+
 ---
 
 ## 📋 Table of Contents
@@ -9,6 +51,7 @@ Note : Need to Improve system more accuray and better performance current archit
 2. [Architecture](#architecture)
 3. [Project Structure](#project-structure)
 4. [Features](#features)
+5. [Tech Stack](#tech-stack)
 
 ---
 
@@ -168,7 +211,4 @@ All leads are synchronized to a professional, color-coded Excel file:
 | **Executives Names** | ~98%|
 | **March 14 Success** | 124 leads updated / 125 total |
 | **AI Processing Time** | ~12 seconds per lead |
-
----
-
 
