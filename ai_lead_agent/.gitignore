@@ -1,0 +1,22 @@
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.env
+
+# Project Specific
+data/*.xlsx
+leads.db
+target_records.json
+
+# System
+.DS_Store
+Thumbs.db

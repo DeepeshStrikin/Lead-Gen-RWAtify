@@ -1,0 +1,119 @@
+{
+  "\u26a1 Phase 1 \u2014 Contact Now": {
+    "columns": [
+      "\u26a1 PHASE 1 \u2014 Contact Now  |  Exec quoted on tokenization intent \u2014 reach out immediately",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "Unnamed: 13",
+      "Unnamed: 14",
+      "Unnamed: 15",
+      "Unnamed: 16",
+      "Unnamed: 17",
+      "Unnamed: 18",
+      "Unnamed: 19",
+      "Unnamed: 20",
+      "Unnamed: 21",
+      "Unnamed: 22",
+      "Unnamed: 23"
+    ],
+    "total_rows": 173,
+    "date_columns": [],
+    "sample_dates": []
+  },
+  "\ud83d\udfe1 Phase 2 \u2014 Nurture": {
+    "columns": [
+      "\ud83d\udfe1 PHASE 2 \u2014 Nurture  |  Tokenization signal found \u2014 find exec before outreach",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "Unnamed: 13",
+      "Unnamed: 14",
+      "Unnamed: 15",
+      "Unnamed: 16",
+      "Unnamed: 17",
+      "Unnamed: 18",
+      "Unnamed: 19",
+      "Unnamed: 20",
+      "Unnamed: 21",
+      "Unnamed: 22",
+      "Unnamed: 23"
+    ],
+    "total_rows": 131,
+    "date_columns": [],
+    "sample_dates": []
+  },
+  "\ud83d\udeab Competitors Detected": {
+    "columns": [
+      "\ud83d\udeab COMPETITORS \u2014 These SELL tokenization infrastructure  |  Do NOT target as buyers",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "Unnamed: 13",
+      "Unnamed: 14",
+      "Unnamed: 15",
+      "Unnamed: 16",
+      "Unnamed: 17",
+      "Unnamed: 18",
+      "Unnamed: 19",
+      "Unnamed: 20",
+      "Unnamed: 21",
+      "Unnamed: 22",
+      "Unnamed: 23"
+    ],
+    "total_rows": 80,
+    "date_columns": [],
+    "sample_dates": []
+  },
+  "\u274c Rejected": {
+    "columns": [
+      "\u274c Rejected \u2014 No qualifying RWAtify signal found",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ],
+    "total_rows": 292,
+    "date_columns": [],
+    "sample_dates": []
+  },
+  "\ud83d\udcca Summary": {
+    "columns": [
+      "RWAtify Lead Agent v2.0  |  Claude + Serper.dev \u2014 Entire Internet Search",
+      "Unnamed: 1"
+    ],
+    "total_rows": 45,
+    "date_columns": [],
+    "sample_dates": []
+  }
+}

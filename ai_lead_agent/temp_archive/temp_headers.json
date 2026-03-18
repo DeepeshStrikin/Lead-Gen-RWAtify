@@ -1,0 +1,187 @@
+{
+  "MAIN": {
+    "\u26a1 Phase 1 \u2014 Contact Now": [
+      "\u26a1 PHASE 1 \u2014 Contact Now  |  Exec quoted on tokenization intent \u2014 reach out immediately",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "Unnamed: 13",
+      "Unnamed: 14",
+      "Unnamed: 15",
+      "Unnamed: 16",
+      "Unnamed: 17",
+      "Unnamed: 18",
+      "Unnamed: 19",
+      "Unnamed: 20",
+      "Unnamed: 21",
+      "Unnamed: 22",
+      "Unnamed: 23"
+    ],
+    "\ud83d\udfe1 Phase 2 \u2014 Nurture": [
+      "\ud83d\udfe1 PHASE 2 \u2014 Nurture  |  Tokenization signal found \u2014 find exec before outreach",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "Unnamed: 13",
+      "Unnamed: 14",
+      "Unnamed: 15",
+      "Unnamed: 16",
+      "Unnamed: 17",
+      "Unnamed: 18",
+      "Unnamed: 19",
+      "Unnamed: 20",
+      "Unnamed: 21",
+      "Unnamed: 22",
+      "Unnamed: 23"
+    ],
+    "\ud83d\udeab Competitors Detected": [
+      "\ud83d\udeab COMPETITORS \u2014 These SELL tokenization infrastructure  |  Do NOT target as buyers",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "Unnamed: 13",
+      "Unnamed: 14",
+      "Unnamed: 15",
+      "Unnamed: 16",
+      "Unnamed: 17",
+      "Unnamed: 18",
+      "Unnamed: 19",
+      "Unnamed: 20",
+      "Unnamed: 21",
+      "Unnamed: 22",
+      "Unnamed: 23"
+    ],
+    "\u274c Rejected": [
+      "\u274c Rejected \u2014 No qualifying RWAtify signal found",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ],
+    "\ud83d\udcca Summary": [
+      "RWAtify Lead Agent v2.0  |  Claude + Serper.dev \u2014 Entire Internet Search",
+      "Unnamed: 1"
+    ],
+    "\ud83c\uddfa\ud83c\uddf8 SEC Funds": [
+      "Unnamed: 0",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "Unnamed: 13",
+      "Unnamed: 14",
+      "Unnamed: 15",
+      "Unnamed: 16",
+      "Unnamed: 17",
+      "Unnamed: 18",
+      "Unnamed: 19",
+      "Unnamed: 20",
+      "Unnamed: 21"
+    ]
+  },
+  "RAW": {
+    "rwatify_AI_leads.xlsx": {
+      "All Qualified Leads": "65 rows, cols: ['FIT TAG', 'DIGITAL READY?', 'COMPANY NAME', 'COMPANY WEBSITE', 'COUNTRY & CITY', 'BUSINESS MODEL', 'PORTFOLIO / PROJECT TYPE', 'DECISION MAKER NAME', 'TITLE / ROLE', 'WHAT THEY SAID (QUOTE)', 'LINKEDIN \u2014 PERSON SEARCH', 'LINKEDIN \u2014 COMPANY SEARCH', 'WHY RWATIFY IS RELEVANT', 'HIGH-INTENT SIGNALS', 'DIGITAL SIGNALS', 'OTHER PEOPLE MENTIONED', 'OTHER COMPANIES MENTIONED', 'ARTICLE SUMMARY (AI)', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'SCRAPED AT']",
+      "\ud83d\udd25 Strong RWAtify Fits": "47 rows, cols: ['FIT TAG', 'DIGITAL READY?', 'COMPANY NAME', 'COMPANY WEBSITE', 'COUNTRY & CITY', 'BUSINESS MODEL', 'PORTFOLIO / PROJECT TYPE', 'DECISION MAKER NAME', 'TITLE / ROLE', 'WHAT THEY SAID (QUOTE)', 'LINKEDIN \u2014 PERSON SEARCH', 'LINKEDIN \u2014 COMPANY SEARCH', 'WHY RWATIFY IS RELEVANT', 'HIGH-INTENT SIGNALS', 'DIGITAL SIGNALS', 'OTHER PEOPLE MENTIONED', 'OTHER COMPANIES MENTIONED', 'ARTICLE SUMMARY (AI)', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'SCRAPED AT']",
+      "\ud83d\udfe1 Potential Fits": "18 rows, cols: ['FIT TAG', 'DIGITAL READY?', 'COMPANY NAME', 'COMPANY WEBSITE', 'COUNTRY & CITY', 'BUSINESS MODEL', 'PORTFOLIO / PROJECT TYPE', 'DECISION MAKER NAME', 'TITLE / ROLE', 'WHAT THEY SAID (QUOTE)', 'LINKEDIN \u2014 PERSON SEARCH', 'LINKEDIN \u2014 COMPANY SEARCH', 'WHY RWATIFY IS RELEVANT', 'HIGH-INTENT SIGNALS', 'DIGITAL SIGNALS', 'OTHER PEOPLE MENTIONED', 'OTHER COMPANIES MENTIONED', 'ARTICLE SUMMARY (AI)', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'SCRAPED AT']",
+      "\u26a1 Digital-Ready Fast Track": "34 rows, cols: ['FIT TAG', 'DIGITAL READY?', 'COMPANY NAME', 'COMPANY WEBSITE', 'COUNTRY & CITY', 'BUSINESS MODEL', 'PORTFOLIO / PROJECT TYPE', 'DECISION MAKER NAME', 'TITLE / ROLE', 'WHAT THEY SAID (QUOTE)', 'LINKEDIN \u2014 PERSON SEARCH', 'LINKEDIN \u2014 COMPANY SEARCH', 'WHY RWATIFY IS RELEVANT', 'HIGH-INTENT SIGNALS', 'DIGITAL SIGNALS', 'OTHER PEOPLE MENTIONED', 'OTHER COMPANIES MENTIONED', 'ARTICLE SUMMARY (AI)', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'SCRAPED AT']",
+      "\u274c Rejected \u2014 Review These": "179 rows, cols: ['REJECTION REASON', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'ARTICLE SNIPPET', 'SCRAPED AT']",
+      "\ud83d\udcca Summary": "37 rows, cols: ['RWAtify AI Lead Discovery \u2014 Run Summary', 'Unnamed: 1']"
+    },
+    "RWAtify_AI_leads_WebScarping_AI_Intelligence.xlsx": {
+      "All Qualified Leads": "65 rows, cols: ['FIT TAG', 'DIGITAL READY?', 'COMPANY NAME', 'COMPANY WEBSITE', 'COUNTRY & CITY', 'BUSINESS MODEL', 'PORTFOLIO / PROJECT TYPE', 'DECISION MAKER NAME', 'TITLE / ROLE', 'WHAT THEY SAID (QUOTE)', 'LINKEDIN \u2014 PERSON SEARCH', 'LINKEDIN \u2014 COMPANY SEARCH', 'WHY RWATIFY IS RELEVANT', 'HIGH-INTENT SIGNALS', 'DIGITAL SIGNALS', 'OTHER PEOPLE MENTIONED', 'OTHER COMPANIES MENTIONED', 'ARTICLE SUMMARY (AI)', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'SCRAPED AT']",
+      "\ud83d\udd25 Strong RWAtify Fits": "47 rows, cols: ['FIT TAG', 'DIGITAL READY?', 'COMPANY NAME', 'COMPANY WEBSITE', 'COUNTRY & CITY', 'BUSINESS MODEL', 'PORTFOLIO / PROJECT TYPE', 'DECISION MAKER NAME', 'TITLE / ROLE', 'WHAT THEY SAID (QUOTE)', 'LINKEDIN \u2014 PERSON SEARCH', 'LINKEDIN \u2014 COMPANY SEARCH', 'WHY RWATIFY IS RELEVANT', 'HIGH-INTENT SIGNALS', 'DIGITAL SIGNALS', 'OTHER PEOPLE MENTIONED', 'OTHER COMPANIES MENTIONED', 'ARTICLE SUMMARY (AI)', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'SCRAPED AT']",
+      "\ud83d\udfe1 Potential Fits": "18 rows, cols: ['FIT TAG', 'DIGITAL READY?', 'COMPANY NAME', 'COMPANY WEBSITE', 'COUNTRY & CITY', 'BUSINESS MODEL', 'PORTFOLIO / PROJECT TYPE', 'DECISION MAKER NAME', 'TITLE / ROLE', 'WHAT THEY SAID (QUOTE)', 'LINKEDIN \u2014 PERSON SEARCH', 'LINKEDIN \u2014 COMPANY SEARCH', 'WHY RWATIFY IS RELEVANT', 'HIGH-INTENT SIGNALS', 'DIGITAL SIGNALS', 'OTHER PEOPLE MENTIONED', 'OTHER COMPANIES MENTIONED', 'ARTICLE SUMMARY (AI)', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'SCRAPED AT']",
+      "\u26a1 Digital-Ready Fast Track": "34 rows, cols: ['FIT TAG', 'DIGITAL READY?', 'COMPANY NAME', 'COMPANY WEBSITE', 'COUNTRY & CITY', 'BUSINESS MODEL', 'PORTFOLIO / PROJECT TYPE', 'DECISION MAKER NAME', 'TITLE / ROLE', 'WHAT THEY SAID (QUOTE)', 'LINKEDIN \u2014 PERSON SEARCH', 'LINKEDIN \u2014 COMPANY SEARCH', 'WHY RWATIFY IS RELEVANT', 'HIGH-INTENT SIGNALS', 'DIGITAL SIGNALS', 'OTHER PEOPLE MENTIONED', 'OTHER COMPANIES MENTIONED', 'ARTICLE SUMMARY (AI)', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'SCRAPED AT']",
+      "\u274c Rejected \u2014 Review These": "179 rows, cols: ['REJECTION REASON', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'ARTICLE SNIPPET', 'SCRAPED AT']",
+      "\ud83d\udcca Summary": "37 rows, cols: ['RWAtify AI Lead Discovery \u2014 Run Summary', 'Unnamed: 1']"
+    },
+    "rwatify_DifferentSourcesNews.xlsx": {
+      "\u26a1 Phase 1 \u2014 Contact Now": "2 rows, cols: ['\u26a1 PHASE 1 \u2014 Contact Now  |  Exec quoted on tokenization intent \u2014 reach out immediately', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18']",
+      "\ud83d\udfe1 Phase 2 \u2014 Nurture": "5 rows, cols: ['\ud83d\udfe1 PHASE 2 \u2014 Nurture  |  Tokenization signal found \u2014 find exec quote before outreach', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18']",
+      "\ud83d\udeab Competitors Detected": "14 rows, cols: ['\ud83d\udeab COMPETITORS \u2014 These SELL tokenization infrastructure  |  Do NOT target as buyers', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18']",
+      "\u274c Rejected": "160 rows, cols: ['\u274c Rejected \u2014 No qualifying signal', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5']",
+      "\ud83d\udcca Summary": "44 rows, cols: ['RWAtify Lead Scraper v3  |  Google News RSS Engine', 'Unnamed: 1']"
+    },
+    "rwatify_fullscraper.xlsx": {
+      "All Qualified Leads": "68 rows, cols: ['FIT TAG', 'DIGITAL READY?', 'COMPANY NAME', 'COMPANY WEBSITE', 'COUNTRY & CITY', 'BUSINESS MODEL', 'PORTFOLIO / PROJECT TYPE', 'DECISION MAKER NAME', 'TITLE / ROLE', 'LINKEDIN \u2014 PERSON SEARCH', 'LINKEDIN \u2014 COMPANY SEARCH', 'WHY RWATIFY IS RELEVANT', 'HIGH-INTENT SIGNALS', 'DIGITAL SIGNALS', 'OTHER COMPANIES FOUND', 'OTHER PEOPLE FOUND', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'ARTICLE SNIPPET', 'SCRAPED AT']",
+      "\ud83d\udd25 Strong RWAtify Fits": "12 rows, cols: ['FIT TAG', 'DIGITAL READY?', 'COMPANY NAME', 'COMPANY WEBSITE', 'COUNTRY & CITY', 'BUSINESS MODEL', 'PORTFOLIO / PROJECT TYPE', 'DECISION MAKER NAME', 'TITLE / ROLE', 'LINKEDIN \u2014 PERSON SEARCH', 'LINKEDIN \u2014 COMPANY SEARCH', 'WHY RWATIFY IS RELEVANT', 'HIGH-INTENT SIGNALS', 'DIGITAL SIGNALS', 'OTHER COMPANIES FOUND', 'OTHER PEOPLE FOUND', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'ARTICLE SNIPPET', 'SCRAPED AT']",
+      "\ud83d\udfe1 Potential Fits": "56 rows, cols: ['FIT TAG', 'DIGITAL READY?', 'COMPANY NAME', 'COMPANY WEBSITE', 'COUNTRY & CITY', 'BUSINESS MODEL', 'PORTFOLIO / PROJECT TYPE', 'DECISION MAKER NAME', 'TITLE / ROLE', 'LINKEDIN \u2014 PERSON SEARCH', 'LINKEDIN \u2014 COMPANY SEARCH', 'WHY RWATIFY IS RELEVANT', 'HIGH-INTENT SIGNALS', 'DIGITAL SIGNALS', 'OTHER COMPANIES FOUND', 'OTHER PEOPLE FOUND', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'ARTICLE SNIPPET', 'SCRAPED AT']",
+      "\u26a1 Digital-Ready Fast Track": "16 rows, cols: ['FIT TAG', 'DIGITAL READY?', 'COMPANY NAME', 'COMPANY WEBSITE', 'COUNTRY & CITY', 'BUSINESS MODEL', 'PORTFOLIO / PROJECT TYPE', 'DECISION MAKER NAME', 'TITLE / ROLE', 'LINKEDIN \u2014 PERSON SEARCH', 'LINKEDIN \u2014 COMPANY SEARCH', 'WHY RWATIFY IS RELEVANT', 'HIGH-INTENT SIGNALS', 'DIGITAL SIGNALS', 'OTHER COMPANIES FOUND', 'OTHER PEOPLE FOUND', 'SOURCE', 'ARTICLE TITLE', 'ARTICLE URL', 'ARTICLE DATE', 'ARTICLE SNIPPET', 'SCRAPED AT']",
+      "\ud83d\udcca Summary": "17 rows, cols: ['RWAtify Lead Discovery \u2014 Run Summary', 'Unnamed: 1']"
+    },
+    "RWAtify_LeadsP1.xlsx": {
+      "Phase 1 \u2014 RWA Target Companies": "12 rows, cols: ['RWAtify \u2014 Phase 1 Global Target Companies  |  Deep Research  |  Tokenization / RWA Infrastructure Signal', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13']",
+      "\ud83d\udcca Summary & Next Steps": "30 rows, cols: ['RWAtify \u2014 Phase 1 Deep Research Summary', 'Unnamed: 1']"
+    },
+    "RWAtify_LeadsP1_Updated.xlsx": {
+      "\u26a1 Phase 1 \u2014 Target Companies": "14 rows, cols: ['RWAtify \u2014 Phase 1 Target Companies  |  These are BUYERS \u2014 Real Estate companies that NEED infrastructure  |  MultiBank & PRYPCO REMOVED (they are platforms/vendors \u2014 see Competitors tab)', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13']",
+      "\ud83d\udeab Competitors \u2014 DO NOT TARGET": "14 rows, cols: ['\ud83d\udeab COMPETITORS \u2014 These companies SELL or OPERATE tokenization infrastructure. They are NOT buyers of RWAtify. DO NOT add to lead lists. \u26a0\ufe0f NOTE: MultiBank.io and PRYPCO moved here from targets \u2014 they ARE platforms, not buyers.', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10']",
+      "\ud83d\udccb Summary + Rules": "25 rows, cols: ['RWAtify \u2014 Phase 1 Research  |  CORRECTED VERSION', 'Unnamed: 1']"
+    },
+    "rwatify_leads_v4.xlsx": {
+      "\u26a1 Phase 1 \u2014 Contact Now": "4 rows, cols: ['\u26a1 PHASE 1 \u2014 Contact Now  |  Exec quoted on tokenization \u2014 reach out immediately', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18']",
+      "\ud83d\udfe1 Phase 2 \u2014 Nurture": "3 rows, cols: ['\ud83d\udfe1 PHASE 2 \u2014 Nurture  |  Tokenization signal found \u2014 find exec quote before outreach', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18']",
+      "\ud83d\udeab Competitors Detected": "12 rows, cols: ['\ud83d\udeab COMPETITORS \u2014 These SELL tokenization infrastructure  |  Do NOT target', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18']",
+      "\u274c Rejected": "14 rows, cols: ['\u274c Rejected \u2014 No qualifying signal', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5']",
+      "\ud83d\udcca Site-by-Site Results": "50 rows, cols: ['SOURCE / WEBSITE', '\u26a1P1', '\ud83d\udfe1P2', '\ud83d\udeabComp', '\u274cRej']"
+    },
+    "rwatify_News_Version6_GoogleSearch.xlsx": {
+      "\u26a1 Phase 1 \u2014 Contact Now": "2 rows, cols: ['\u26a1 PHASE 1 \u2014 Contact Now  |  Exec quoted on tokenization intent \u2014 reach out immediately', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18', 'Unnamed: 19']",
+      "\ud83d\udfe1 Phase 2 \u2014 Nurture": "2 rows, cols: ['\ud83d\udfe1 PHASE 2 \u2014 Nurture  |  Tokenization signal found \u2014 find exec quote before outreach', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18', 'Unnamed: 19']",
+      "\ud83d\udeab Competitors Detected": "111 rows, cols: ['\ud83d\udeab COMPETITORS \u2014 These SELL tokenization infrastructure  |  Do NOT target as buyers', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18', 'Unnamed: 19']",
+      "\u274c Rejected": "148 rows, cols: ['\u274c Rejected \u2014 No qualifying signal found', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6']",
+      "\ud83d\udcca Summary": "43 rows, cols: ['RWAtify Lead Scraper v5  |  Google Search API Engine', 'Unnamed: 1']"
+    },
+    "rwatify_phase1_leads.xlsx": {
+      "\u26a1 Phase 1 \u2014 Contact Now": "2 rows, cols: ['\u26a1 PHASE 1 \u2014 Contact Now  |  Decision maker confirmed \u2014 exec quoted on infrastructure intent', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']",
+      "\ud83d\udfe1 Phase 2 \u2014 Nurture": "2 rows, cols: ['\ud83d\udfe1 PHASE 2 \u2014 Nurture  |  Signal found but no confirmed exec quote yet', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']",
+      "\ud83d\udeab Competitors Detected": "2 rows, cols: ['\ud83d\udeab COMPETITORS \u2014 These companies SELL tokenization infrastructure  |  DO NOT target as leads', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13']",
+      "\u274c Rejected": "2 rows, cols: ['\u274c Rejected \u2014 No Phase 1 or Phase 2 signal found', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6']",
+      "\ud83d\udcca Summary": "22 rows, cols: ['RWAtify \u2014 Phase 1 Lead Scraper  |  Run Summary', 'Unnamed: 1']"
+    },
+    "RWAtify_RealEstate_Potential_DeepSearch_Gemini.xlsx": {
+      "Enhancing": "52 rows, cols: ['Company Name', 'Website Url', 'Country & City', 'Business Model', 'Portfolio / Project Type', 'Decision Maker Name', 'Title', 'LinkedIn URL', 'Why RWAtify is Relevant', 'Fit Tag']",
+      "Initial": "50 rows, cols: ['Company Name', 'Website', 'Country & City', 'Business Model', 'Portfolio / Project Type', 'Decision Maker Name', 'Title', 'Why RWAtify is Relevant', 'Fit Tag']",
+      "Raw Data": "50 rows, cols: ['Name', 'Name.1_HREF', 'Name.2_SRC', 'Name.3_HREF', 'Name.4', 'Name.5', 'Name.6', 'Name.7', 'Account', 'Account.1_HREF', 'Account.3', 'Geography', 'Notes_\\n Tooltip', 'Outreach_activity', 'Date_added']"
+    }
+  }
+}
