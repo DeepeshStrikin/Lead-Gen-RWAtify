@@ -28,8 +28,7 @@ pip install -r requirements.txt
 1. Find the file named `.env.example` in the folder.
 2. Rename it to `.env`.
 3. I will send the environment variables thorugh the mail.
-4. Open it with a text editor (like Notepad) and paste your API keys:
-   - `GROQ_API_KEY`: Get from [Groq Console](https://console.groq.com/)
+4. Open it with a text editor (like Notepad) and paste your API keys: 
    - `SERPER_API_KEY`: Get from [Serper.dev](https://serper.dev/) (For Google Search)
    - `CLAUDE_API_KEY`: Get from [Anthropic](https://console.anthropic.com/) (For AI Intelligence)
 
