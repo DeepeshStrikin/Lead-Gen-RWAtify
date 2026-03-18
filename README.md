@@ -19,7 +19,7 @@ Download the ZIP file of this project.
 
 ### 4. Setup the Project
 Open the visual studio and select the folder that downloaded and click the terminal after opening the project folder in the visual studio.
-Open your terminal (Command Prompt or PowerShell) in the project folder and run:
+Open your terminal in the project folder of the visual studio and run:
 ```bash
 pip install -r requirements.txt
 ```
